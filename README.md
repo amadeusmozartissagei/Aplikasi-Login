@@ -1,7 +1,9 @@
 # Aplikasi-Login
 Sebuah aplikasi dengan fitur login, latihan dicoding
 
-alur login
-1. memasukan email dan password
+alur fitur login
+1. memasukan nama, email dan password
 2. memvalidasi masukan
-3. menampilkan halaman home
+3. memvalidasi pengguna dengan deteksi wajah
+4. memvalidasi nama ibu pengguna
+5. menampilkan halaman home
